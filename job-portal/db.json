@@ -1,0 +1,129 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Google",
+      "location": "Remote",
+      "salary": "12 LPA",
+      "type": "Full Time",
+      "experience": "2+ Years",
+      "description": "Build and maintain modern React and Next.js applications."
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "Amazon",
+      "location": "Bangalore",
+      "salary": "15 LPA",
+      "type": "Full Time",
+      "experience": "3+ Years",
+      "description": "Develop scalable Node.js services and REST APIs."
+    },
+    {
+      "id": "3",
+      "title": "MERN Stack Developer",
+      "company": "Microsoft",
+      "location": "Hyderabad",
+      "salary": "18 LPA",
+      "type": "Full Time",
+      "experience": "2+ Years",
+      "description": "Build end-to-end applications using MongoDB, Express, React and Node."
+    },
+    {
+      "id": "4",
+      "title": "Software Engineer",
+      "company": "Adobe",
+      "location": "Pune",
+      "salary": "14 LPA",
+      "type": "Full Time",
+      "experience": "1+ Years",
+      "description": "Work on scalable software systems and cloud applications."
+    },
+    {
+      "id": "5",
+      "title": "React Developer",
+      "company": "Netflix",
+      "location": "Remote",
+      "salary": "20 LPA",
+      "type": "Contract",
+      "experience": "4+ Years",
+      "description": "Build highly interactive user interfaces using React."
+    },
+    {
+      "id": "6",
+      "title": "Full Stack Developer",
+      "company": "Flipkart",
+      "location": "Bangalore",
+      "salary": "16 LPA",
+      "type": "Full Time",
+      "experience": "2+ Years",
+      "description": "Build frontend and backend systems for e-commerce applications."
+    },
+    {
+      "title": "SDE",
+      "company": "google",
+      "location": "bangalore ",
+      "salary": "12lpa",
+      "type": "full time ",
+      "experience": "3",
+      "description": "this is a job at google ",
+      "id": "7no657fZ4sA"
+    },
+    {
+      "title": "React developer",
+      "company": "Atlassian ",
+      "location": "Bangalore",
+      "salary": "15LPA",
+      "type": "full time ",
+      "experience": "2",
+      "description": "this is a full time opening for react",
+      "id": "kJXub8gH_IM"
+    },
+    {
+      "title": "SDE-2",
+      "company": "Microsoft",
+      "location": "US",
+      "salary": "35lpa",
+      "type": "Full time ",
+      "experience": "5 years ",
+      "description": "\n",
+      "id": "NjT9ooBzXLQ"
+    },
+    {
+      "title": "New recruiter job ",
+      "company": "recruiter ",
+      "location": "indore ",
+      "salary": "1lpa ",
+      "type": "full time ",
+      "experience": "1",
+      "description": "apply here to test ",
+      "recruiterId": 1781863969460,
+      "id": "tz7cNS-1Pv8"
+    },
+    {
+      "title": "newjob1",
+      "company": "new job ",
+      "location": "indore",
+      "salary": "1",
+      "type": "full time ",
+      "experience": "2 years",
+      "description": "this is a new recruiter \n",
+      "recruiterId": 1782202278109,
+      "id": "MG_FGaHVY-Q"
+    },
+    {
+      "title": "newjob2",
+      "company": "2",
+      "location": "2",
+      "salary": "Not Specified",
+      "type": "Full Time",
+      "experience": "0+ Years",
+      "description": "No description provided",
+      "recruiterId": 1781863969460,
+      "recruiterName": "Kartik aryan",
+      "id": "QQNCTTNI4oc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,34 @@
+import { create } from "zustand";
+import { persist } from "zustand/middleware";
+
+const useRecruiterJobsStore = create(
+  persist(
+    (set) => ({
+      jobs: [],
+
+  addJob: (job, recruiterId) =>
+  set((state) => ({
+    jobs: [
+      ...state.jobs,
+      {
+        id: Date.now(),
+        recruiterId,
+        ...job,
+      },
+    ],
+  })),
+
+      deleteJob: (id) =>
+        set((state) => ({
+          jobs: state.jobs.filter(
+            (job) => job.id !== id
+          ),
+        })),
+    }),
+    {
+      name: "recruiter-jobs",
+    }
+  )
+);
+
+export default useRecruiterJobsStore;
